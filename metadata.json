@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Avaliações de Desempenho",
+  "description": "Sistema web para acompanhamento e controle de avaliações de desempenho de colaboradores no período de experiência de 45 e 90 dias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
